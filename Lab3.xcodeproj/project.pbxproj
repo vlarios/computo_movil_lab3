@@ -7,6 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B45753CF19EADF8A0037C124 /* MainTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = B45753CE19EADF8A0037C124 /* MainTabBarController.m */; };
+		B45753D219EAE0100037C124 /* AmigosViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B45753D119EAE0100037C124 /* AmigosViewController.m */; };
+		B45753D519EAE0480037C124 /* AerolineaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B45753D419EAE0480037C124 /* AerolineaViewController.m */; };
+		B45753D819EAE0640037C124 /* FechasViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B45753D719EAE0640037C124 /* FechasViewController.m */; };
+		B457540F19EAE6840037C124 /* calendar02@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B457540E19EAE6840037C124 /* calendar02@2x.png */; };
+		B457541119EAE69D0037C124 /* man01@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B457541019EAE69D0037C124 /* man01@2x.png */; };
+		B457541319EAE6C50037C124 /* search01@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B457541219EAE6C50037C124 /* search01@2x.png */; };
+		B457541A19EAF7150037C124 /* Amiga1.png in Resources */ = {isa = PBXBuildFile; fileRef = B457541419EAF7150037C124 /* Amiga1.png */; };
+		B457541B19EAF7150037C124 /* Amiga2.png in Resources */ = {isa = PBXBuildFile; fileRef = B457541519EAF7150037C124 /* Amiga2.png */; };
+		B457541C19EAF7150037C124 /* Amiga3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B457541619EAF7150037C124 /* Amiga3.jpg */; };
+		B457541D19EAF7150037C124 /* Amigo1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B457541719EAF7150037C124 /* Amigo1.jpg */; };
+		B457541E19EAF7150037C124 /* Amigo2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B457541819EAF7150037C124 /* Amigo2.jpg */; };
+		B457541F19EAF7150037C124 /* Amigo3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B457541919EAF7150037C124 /* Amigo3.jpg */; };
+		B457542219EAFA880037C124 /* Declarations.m in Sources */ = {isa = PBXBuildFile; fileRef = B457542119EAFA880037C124 /* Declarations.m */; };
+		B457542519EAFB8C0037C124 /* cellFriend.m in Sources */ = {isa = PBXBuildFile; fileRef = B457542419EAFB8C0037C124 /* cellFriend.m */; };
+		B457542719EB2E2E0037C124 /* Amigos.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B457542619EB2E2E0037C124 /* Amigos.jpg */; };
 		B4FA628319EADE5A007C0AFC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4FA628219EADE5A007C0AFC /* Foundation.framework */; };
 		B4FA628519EADE5A007C0AFC /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4FA628419EADE5A007C0AFC /* CoreGraphics.framework */; };
 		B4FA628719EADE5A007C0AFC /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4FA628619EADE5A007C0AFC /* UIKit.framework */; };
@@ -14,7 +30,6 @@
 		B4FA628F19EADE5A007C0AFC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B4FA628E19EADE5A007C0AFC /* main.m */; };
 		B4FA629319EADE5B007C0AFC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B4FA629219EADE5B007C0AFC /* AppDelegate.m */; };
 		B4FA629619EADE5B007C0AFC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B4FA629419EADE5B007C0AFC /* Main.storyboard */; };
-		B4FA629919EADE5B007C0AFC /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B4FA629819EADE5B007C0AFC /* ViewController.m */; };
 		B4FA629B19EADE5B007C0AFC /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B4FA629A19EADE5B007C0AFC /* Images.xcassets */; };
 		B4FA62A219EADE5B007C0AFC /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4FA62A119EADE5B007C0AFC /* XCTest.framework */; };
 		B4FA62A319EADE5B007C0AFC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4FA628219EADE5A007C0AFC /* Foundation.framework */; };
@@ -34,6 +49,28 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B45753CD19EADF8A0037C124 /* MainTabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainTabBarController.h; sourceTree = "<group>"; };
+		B45753CE19EADF8A0037C124 /* MainTabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainTabBarController.m; sourceTree = "<group>"; };
+		B45753D019EAE0100037C124 /* AmigosViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AmigosViewController.h; sourceTree = "<group>"; };
+		B45753D119EAE0100037C124 /* AmigosViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AmigosViewController.m; sourceTree = "<group>"; };
+		B45753D319EAE0480037C124 /* AerolineaViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AerolineaViewController.h; sourceTree = "<group>"; };
+		B45753D419EAE0480037C124 /* AerolineaViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AerolineaViewController.m; sourceTree = "<group>"; };
+		B45753D619EAE0640037C124 /* FechasViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FechasViewController.h; sourceTree = "<group>"; };
+		B45753D719EAE0640037C124 /* FechasViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FechasViewController.m; sourceTree = "<group>"; };
+		B457540E19EAE6840037C124 /* calendar02@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "calendar02@2x.png"; sourceTree = "<group>"; };
+		B457541019EAE69D0037C124 /* man01@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "man01@2x.png"; sourceTree = "<group>"; };
+		B457541219EAE6C50037C124 /* search01@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "search01@2x.png"; sourceTree = "<group>"; };
+		B457541419EAF7150037C124 /* Amiga1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Amiga1.png; path = ../../../Downloads/Amiga1.png; sourceTree = "<group>"; };
+		B457541519EAF7150037C124 /* Amiga2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Amiga2.png; path = ../../../Downloads/Amiga2.png; sourceTree = "<group>"; };
+		B457541619EAF7150037C124 /* Amiga3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Amiga3.jpg; path = ../../../Downloads/Amiga3.jpg; sourceTree = "<group>"; };
+		B457541719EAF7150037C124 /* Amigo1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Amigo1.jpg; path = ../../../Downloads/Amigo1.jpg; sourceTree = "<group>"; };
+		B457541819EAF7150037C124 /* Amigo2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Amigo2.jpg; path = ../../../Downloads/Amigo2.jpg; sourceTree = "<group>"; };
+		B457541919EAF7150037C124 /* Amigo3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Amigo3.jpg; path = ../../../Downloads/Amigo3.jpg; sourceTree = "<group>"; };
+		B457542019EAFA880037C124 /* Declarations.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Declarations.h; sourceTree = "<group>"; };
+		B457542119EAFA880037C124 /* Declarations.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Declarations.m; sourceTree = "<group>"; };
+		B457542319EAFB8C0037C124 /* cellFriend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cellFriend.h; sourceTree = "<group>"; };
+		B457542419EAFB8C0037C124 /* cellFriend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = cellFriend.m; sourceTree = "<group>"; };
+		B457542619EB2E2E0037C124 /* Amigos.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Amigos.jpg; path = ../../../Downloads/Amigos.jpg; sourceTree = "<group>"; };
 		B4FA627F19EADE5A007C0AFC /* Lab3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lab3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4FA628219EADE5A007C0AFC /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		B4FA628419EADE5A007C0AFC /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -45,8 +82,6 @@
 		B4FA629119EADE5A007C0AFC /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		B4FA629219EADE5B007C0AFC /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		B4FA629519EADE5B007C0AFC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		B4FA629719EADE5B007C0AFC /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		B4FA629819EADE5B007C0AFC /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		B4FA629A19EADE5B007C0AFC /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		B4FA62A019EADE5B007C0AFC /* Lab3Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Lab3Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4FA62A119EADE5B007C0AFC /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
@@ -115,8 +150,28 @@
 				B4FA629119EADE5A007C0AFC /* AppDelegate.h */,
 				B4FA629219EADE5B007C0AFC /* AppDelegate.m */,
 				B4FA629419EADE5B007C0AFC /* Main.storyboard */,
-				B4FA629719EADE5B007C0AFC /* ViewController.h */,
-				B4FA629819EADE5B007C0AFC /* ViewController.m */,
+				B457542619EB2E2E0037C124 /* Amigos.jpg */,
+				B457542019EAFA880037C124 /* Declarations.h */,
+				B457542119EAFA880037C124 /* Declarations.m */,
+				B457542319EAFB8C0037C124 /* cellFriend.h */,
+				B457542419EAFB8C0037C124 /* cellFriend.m */,
+				B457541419EAF7150037C124 /* Amiga1.png */,
+				B457541519EAF7150037C124 /* Amiga2.png */,
+				B457541619EAF7150037C124 /* Amiga3.jpg */,
+				B457541719EAF7150037C124 /* Amigo1.jpg */,
+				B457541819EAF7150037C124 /* Amigo2.jpg */,
+				B457541919EAF7150037C124 /* Amigo3.jpg */,
+				B457541219EAE6C50037C124 /* search01@2x.png */,
+				B457541019EAE69D0037C124 /* man01@2x.png */,
+				B457540E19EAE6840037C124 /* calendar02@2x.png */,
+				B45753CD19EADF8A0037C124 /* MainTabBarController.h */,
+				B45753CE19EADF8A0037C124 /* MainTabBarController.m */,
+				B45753D019EAE0100037C124 /* AmigosViewController.h */,
+				B45753D119EAE0100037C124 /* AmigosViewController.m */,
+				B45753D319EAE0480037C124 /* AerolineaViewController.h */,
+				B45753D419EAE0480037C124 /* AerolineaViewController.m */,
+				B45753D619EAE0640037C124 /* FechasViewController.h */,
+				B45753D719EAE0640037C124 /* FechasViewController.m */,
 				B4FA629A19EADE5B007C0AFC /* Images.xcassets */,
 				B4FA628919EADE5A007C0AFC /* Supporting Files */,
 			);
@@ -228,8 +283,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				B4FA629B19EADE5B007C0AFC /* Images.xcassets in Resources */,
+				B457541F19EAF7150037C124 /* Amigo3.jpg in Resources */,
+				B457541E19EAF7150037C124 /* Amigo2.jpg in Resources */,
+				B457541D19EAF7150037C124 /* Amigo1.jpg in Resources */,
 				B4FA628D19EADE5A007C0AFC /* InfoPlist.strings in Resources */,
+				B457541119EAE69D0037C124 /* man01@2x.png in Resources */,
+				B457540F19EAE6840037C124 /* calendar02@2x.png in Resources */,
+				B457541A19EAF7150037C124 /* Amiga1.png in Resources */,
 				B4FA629619EADE5B007C0AFC /* Main.storyboard in Resources */,
+				B457541B19EAF7150037C124 /* Amiga2.png in Resources */,
+				B457541319EAE6C50037C124 /* search01@2x.png in Resources */,
+				B457541C19EAF7150037C124 /* Amiga3.jpg in Resources */,
+				B457542719EB2E2E0037C124 /* Amigos.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -248,9 +313,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B4FA629919EADE5B007C0AFC /* ViewController.m in Sources */,
+				B45753D219EAE0100037C124 /* AmigosViewController.m in Sources */,
 				B4FA629319EADE5B007C0AFC /* AppDelegate.m in Sources */,
+				B45753D819EAE0640037C124 /* FechasViewController.m in Sources */,
+				B457542219EAFA880037C124 /* Declarations.m in Sources */,
 				B4FA628F19EADE5A007C0AFC /* main.m in Sources */,
+				B45753CF19EADF8A0037C124 /* MainTabBarController.m in Sources */,
+				B45753D519EAE0480037C124 /* AerolineaViewController.m in Sources */,
+				B457542519EAFB8C0037C124 /* cellFriend.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -455,6 +525,7 @@
 				B4FA62B319EADE5B007C0AFC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B4FA62B419EADE5B007C0AFC /* Build configuration list for PBXNativeTarget "Lab3Tests" */ = {
 			isa = XCConfigurationList;
@@ -463,6 +534,7 @@
 				B4FA62B619EADE5B007C0AFC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
