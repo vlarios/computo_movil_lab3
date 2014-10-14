@@ -23,6 +23,10 @@
 		B457542219EAFA880037C124 /* Declarations.m in Sources */ = {isa = PBXBuildFile; fileRef = B457542119EAFA880037C124 /* Declarations.m */; };
 		B457542519EAFB8C0037C124 /* cellFriend.m in Sources */ = {isa = PBXBuildFile; fileRef = B457542419EAFB8C0037C124 /* cellFriend.m */; };
 		B457542719EB2E2E0037C124 /* Amigos.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B457542619EB2E2E0037C124 /* Amigos.jpg */; };
+		B49978D719ECEE6C00170E1D /* aeromexico.png in Resources */ = {isa = PBXBuildFile; fileRef = B49978D619ECEE6C00170E1D /* aeromexico.png */; };
+		B49978D919ECEE9E00170E1D /* interjet.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B49978D819ECEE9E00170E1D /* interjet.jpg */; };
+		B49978DB19ECEEC200170E1D /* vivaaero.png in Resources */ = {isa = PBXBuildFile; fileRef = B49978DA19ECEEC200170E1D /* vivaaero.png */; };
+		B49978DD19ECEEDA00170E1D /* volaris.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B49978DC19ECEEDA00170E1D /* volaris.jpg */; };
 		B4FA628319EADE5A007C0AFC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4FA628219EADE5A007C0AFC /* Foundation.framework */; };
 		B4FA628519EADE5A007C0AFC /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4FA628419EADE5A007C0AFC /* CoreGraphics.framework */; };
 		B4FA628719EADE5A007C0AFC /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4FA628619EADE5A007C0AFC /* UIKit.framework */; };
@@ -71,6 +75,10 @@
 		B457542319EAFB8C0037C124 /* cellFriend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cellFriend.h; sourceTree = "<group>"; };
 		B457542419EAFB8C0037C124 /* cellFriend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = cellFriend.m; sourceTree = "<group>"; };
 		B457542619EB2E2E0037C124 /* Amigos.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Amigos.jpg; path = ../../../Downloads/Amigos.jpg; sourceTree = "<group>"; };
+		B49978D619ECEE6C00170E1D /* aeromexico.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = aeromexico.png; path = ../../../Downloads/aeromexico.png; sourceTree = "<group>"; };
+		B49978D819ECEE9E00170E1D /* interjet.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = interjet.jpg; path = ../../../Downloads/interjet.jpg; sourceTree = "<group>"; };
+		B49978DA19ECEEC200170E1D /* vivaaero.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = vivaaero.png; path = ../../../Downloads/vivaaero.png; sourceTree = "<group>"; };
+		B49978DC19ECEEDA00170E1D /* volaris.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = volaris.jpg; path = ../../../Downloads/volaris.jpg; sourceTree = "<group>"; };
 		B4FA627F19EADE5A007C0AFC /* Lab3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lab3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4FA628219EADE5A007C0AFC /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		B4FA628419EADE5A007C0AFC /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -150,6 +158,10 @@
 				B4FA629119EADE5A007C0AFC /* AppDelegate.h */,
 				B4FA629219EADE5B007C0AFC /* AppDelegate.m */,
 				B4FA629419EADE5B007C0AFC /* Main.storyboard */,
+				B49978D619ECEE6C00170E1D /* aeromexico.png */,
+				B49978DC19ECEEDA00170E1D /* volaris.jpg */,
+				B49978DA19ECEEC200170E1D /* vivaaero.png */,
+				B49978D819ECEE9E00170E1D /* interjet.jpg */,
 				B457542619EB2E2E0037C124 /* Amigos.jpg */,
 				B457542019EAFA880037C124 /* Declarations.h */,
 				B457542119EAFA880037C124 /* Declarations.m */,
@@ -287,11 +299,15 @@
 				B457541E19EAF7150037C124 /* Amigo2.jpg in Resources */,
 				B457541D19EAF7150037C124 /* Amigo1.jpg in Resources */,
 				B4FA628D19EADE5A007C0AFC /* InfoPlist.strings in Resources */,
+				B49978D919ECEE9E00170E1D /* interjet.jpg in Resources */,
 				B457541119EAE69D0037C124 /* man01@2x.png in Resources */,
 				B457540F19EAE6840037C124 /* calendar02@2x.png in Resources */,
+				B49978D719ECEE6C00170E1D /* aeromexico.png in Resources */,
 				B457541A19EAF7150037C124 /* Amiga1.png in Resources */,
+				B49978DD19ECEEDA00170E1D /* volaris.jpg in Resources */,
 				B4FA629619EADE5B007C0AFC /* Main.storyboard in Resources */,
 				B457541B19EAF7150037C124 /* Amiga2.png in Resources */,
+				B49978DB19ECEEC200170E1D /* vivaaero.png in Resources */,
 				B457541319EAE6C50037C124 /* search01@2x.png in Resources */,
 				B457541C19EAF7150037C124 /* Amiga3.jpg in Resources */,
 				B457542719EB2E2E0037C124 /* Amigos.jpg in Resources */,
