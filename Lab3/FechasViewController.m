@@ -34,6 +34,27 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
+- (IBAction)btnDateDiffPressed:(id)sender {
+    NSLocale *usLocale = [[NSLocale alloc]
+                          initWithLocaleIdentifier:@"en_US"];
+    
+    NSDate *pickerDate1 = [self.dpDate1 date];
+    NSDate *pickerDate2 = [self.dpDate2 date];
+    
+    
+    
+    NSString *selectionString1 = [[NSString alloc]
+                                 initWithFormat:@"%@",
+                                 [pickerDate1 descriptionWithLocale:usLocale]];
+    NSString *selectionString2 = [[NSString alloc]
+                                  initWithFormat:@"%@",
+                                  [pickerDate2 descriptionWithLocale:usLocale]];
+    
+    //NSTimeInterval dateDiff = [pickerDate2 - timeIntervalSinceDate:pickerDate1];
+                               
+    self.lblDif.text = selectionString1;
+    self.lblDif.adjustsFontSizeToFitWidth = YES;
+}
 
 /*
 #pragma mark - Navigation

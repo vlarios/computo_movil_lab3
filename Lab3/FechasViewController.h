@@ -9,5 +9,9 @@
 #import <UIKit/UIKit.h>
 
 @interface FechasViewController : UIViewController
+@property (strong, nonatomic) IBOutlet UIDatePicker *dpDate1;
+@property (strong, nonatomic) IBOutlet UIDatePicker *dpDate2;
+@property (strong, nonatomic) IBOutlet UIButton *btnDif;
+@property (strong, nonatomic) IBOutlet UILabel *lblDif;
 
 @end

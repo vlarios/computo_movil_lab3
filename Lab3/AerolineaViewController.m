@@ -24,7 +24,7 @@ NSString *str_arrayDestino2[3] = {@"SJD", @"ACA", @"PVR"};
 NSString *str_arrayDestino3[3] = {@"VER", @"VSA", @"TGZ"};
 
 NSString *str_arrayDestino4[3] = {@"TPQ", @"REX", @"CJS"};
-NSString *str_arrayLogos[4] = {@"aeromexico,png", @"volaris.jpg", @"interjet.jpg", @"vivaaero.png"};
+NSString *str_arrayLogos[4] = {@"aeromexico.png", @"volaris.jpg", @"interjet.jpg", @"vivaaero.png"};
     
 
 NSString *str_arrayOrigen[3] = {@"", @"", @""};
